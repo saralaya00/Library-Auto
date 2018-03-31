@@ -1,0 +1,235 @@
+Y:\Project\Library Auto\Library Auto\bin\Debug\Library Auto.exe
+Y:\Project\Library Auto\Library Auto\bin\Debug\Library Auto.pdb
+Y:\Project\Library Auto\Library Auto\obj\Debug\ResolveAssemblyReference.cache
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Properties.Resources.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library Auto.csproj.GenerateResource.Cache
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library Auto.exe
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library Auto.pdb
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Login_02.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Search_01.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Administration_03.resources
+Y:\Project\Library Auto\Library Auto\bin\Release\Library Auto.exe
+Y:\Project\Library Auto\Library Auto\bin\Release\Library Auto.pdb
+Y:\Project\Library Auto\Library Auto\obj\Release\ResolveAssemblyReference.cache
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Administration_03.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Login_02.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Search_01.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Properties.Resources.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library Auto.csproj.GenerateResource.Cache
+Y:\Project\Library Auto\Library Auto\obj\Release\Library Auto.exe
+Y:\Project\Library Auto\Library Auto\obj\Release\Library Auto.pdb
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Members_05.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Circulation_06.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Circulation_06.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Members_05.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Staff_07.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.AccessionRegister_04.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Stock_08.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.AccRegButtons_04a.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library Auto.exe
+E:\_tar\Library Auto\Library Auto\obj\Release\Library Auto.pdb
+E:\_tar\Library Auto\Library Auto\obj\Release\ResolveAssemblyReference.cache
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.AccRegButtons_04a.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.AccessionRegister_04.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Administration_03.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Circulation_06.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Fine_09.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Login_02.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Login_CP_02a.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Members_05.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Search_01.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Properties.Resources.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Staff_07.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library_Auto.Stock_08.resources
+E:\_tar\Library Auto\Library Auto\obj\Release\Library Auto.csproj.GenerateResource.Cache
+E:\_tar\Library Auto\Library Auto\bin\Release\Library Auto.exe
+E:\_tar\Library Auto\Library Auto\bin\Release\Library Auto.pdb
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.AccRegButtons_04a.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.AccessionRegister_04.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Staff_07.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Stock_08.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library Auto.exe
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library Auto.pdb
+E:\_tar\Library Auto\Library Auto\obj\Debug\ResolveAssemblyReference.cache
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.AccRegButtons_04a.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.AccessionRegister_04.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Administration_03.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Circulation_06.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Fine_06b.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Login_02.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Members_05.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Search_01.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Properties.Resources.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Staff_07.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Stock_08.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library Auto.csproj.GenerateResource.Cache
+E:\_tar\Library Auto\Library Auto\bin\Debug\Library Auto.exe
+E:\_tar\Library Auto\Library Auto\bin\Debug\Library Auto.pdb
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Report_09.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Report_09.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Fine_06b.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.HolidaySetup_06c.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.HolidaySetup_06c.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.MemberParameters_05b.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.MemberParameters_05b.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Modules.Error_Handler.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Modules.Error_Handler.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Vendor_10b.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Vendor_10b.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Login_CP_02b.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Login_CP_02b.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.CreateOrder_10c.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.GenerateBill_10d.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.CreateOrder_10c.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.GenerateBill_10d.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Reports_Base.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Circulation_rpt.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Circulation_rpt.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Reports_Base.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Stock_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Stock_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.AccReg_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Members_rpt.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.AccReg_rpt.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Members_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._AccReg.rpt
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Circulation.rpt
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Members.rpt
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Fine.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._AccReg.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Fine.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Members.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Circulation.rpt
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Fine_rpt.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Fine_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._CreateBill.rpt
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._PurchaseOrder.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._CreateBill.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._PurchaseOrder.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Create_Bill_rpt.resources
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Purchase_Order_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Create_Bill_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Purchase_Order_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._AccReg.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._CreateBill.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Fine.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Members.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._PurchaseOrder.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Stock.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Circulation.rpt
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.BookLost_11.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.CreateOrder_10c.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Create_Bill_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Purchase_Order_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Fine_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Stock_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Members_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.AccReg_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.GenerateBill_10d.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Circulation_rpt.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Reports_Base.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.HolidaySetup_06c.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Login_CP_02b.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.MemberParameters_05b.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Modules.Error_Handler.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Report_09.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Fine_06b.resources
+Y:\Project\Library Auto\Library Auto\obj\Release\Library_Auto.Vendor_10b.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.ViewIssued_11.resources
+E:\_backup\Library Auto_04_01 College\Library Auto\Library Auto\obj\Debug\Library Auto.exe
+E:\_backup\Library Auto_04_01 College\Library Auto\Library Auto\obj\Debug\Library Auto.pdb
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.ViewIssued_11.resources
+Y:\Project\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.zStock.rpt
+E:\_tar\Library Auto\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.zStock.rpt
+H:\Library Auto\Library Auto\obj\Debug\Library Auto.exe
+H:\Library Auto\Library Auto\obj\Debug\Library Auto.pdb
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library Auto.exe
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library Auto.pdb
+H:\Library Auto [ABS]\Library Auto\bin\Debug\Library Auto.exe
+H:\Library Auto [ABS]\Library Auto\bin\Debug\Library Auto.pdb
+H:\Library Auto [ABS]\Library Auto\obj\Debug\ResolveAssemblyReference.cache
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._AccReg.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._CreateBill.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Fine.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Members.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._PurchaseOrder.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.zStock.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports._Circulation.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.AccRegButtons_04a.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.AccessionRegister_04.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Administration_03.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.GenerateBill_10d.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.ViewIssued_11.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Circulation_06.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.CreateOrder_10c.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Create_Bill_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Purchase_Order_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Fine_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Stock_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Members_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.AccReg_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Circulation_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Crystal_Reports.Reports_Base.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.HolidaySetup_06c.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Login_CP_02b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.MemberParameters_05b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Members_05.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Modules.Error_Handler.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Report_09.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Fine_06b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Login_02.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Properties.Resources.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Search_01.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Staff_07.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Stock_08.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library_Auto.Vendor_10b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library Auto.csproj.GenerateResource.Cache
+H:\Library Auto [ABS]\Library Auto\bin\Debug\Library Auto.exe.manifest
+H:\Library Auto [ABS]\Library Auto\bin\Debug\Library Auto.application
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library Auto.exe.manifest
+H:\Library Auto [ABS]\Library Auto\obj\Debug\Library Auto.application
+H:\Library Auto [ABS]\Library Auto\bin\Release\Library Auto.exe.manifest
+H:\Library Auto [ABS]\Library Auto\bin\Release\Library Auto.application
+H:\Library Auto [ABS]\Library Auto\bin\Release\Library Auto.exe
+H:\Library Auto [ABS]\Library Auto\bin\Release\Library Auto.pdb
+H:\Library Auto [ABS]\Library Auto\obj\Release\ResolveAssemblyReference.cache
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports._AccReg.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports._CreateBill.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Fine.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Members.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports._PurchaseOrder.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.zStock.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports._Circulation.rpt
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.AccRegButtons_04a.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.AccessionRegister_04.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Administration_03.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.GenerateBill_10d.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.ViewIssued_11.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Circulation_06.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.CreateOrder_10c.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Create_Bill_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Purchase_Order_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Fine_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Stock_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Members_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.AccReg_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Circulation_rpt.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Crystal_Reports.Reports_Base.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.HolidaySetup_06c.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Login_CP_02b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.MemberParameters_05b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Members_05.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Modules.Error_Handler.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Report_09.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Fine_06b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Login_02.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Properties.Resources.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Search_01.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Staff_07.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Stock_08.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library_Auto.Vendor_10b.resources
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library Auto.csproj.GenerateResource.Cache
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library Auto.exe.manifest
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library Auto.application
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library Auto.exe
+H:\Library Auto [ABS]\Library Auto\obj\Release\Library Auto.pdb

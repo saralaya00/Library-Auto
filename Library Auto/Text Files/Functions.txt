@@ -1,0 +1,204 @@
+
+//DataGridView.Resize
+        protected override void OnSizeChanged(EventArgs e)
+        {
+            base.OnSizeChanged(e);
+
+            Size reSize = new Size(this.Size.Width - 60, this.Size.Height - 180);
+            Size defSize = new Size(800, 400);
+            dataGridView1.Size = reSize;
+
+            if (this.Size.Height < defSize.Height 
+                || this.Size.Width < defSize.Width)
+            {
+                this.Size = defSize;
+            }
+        }
+
+//Added in DateTimePicker.ValueChanged Event
+private void ValidateDates(object sender, EventArgs e)
+{
+    lblError.Text = "...";
+
+    if ((sender is DateTimePicker))
+    {
+        if ((sender as DateTimePicker).Value > DateTime.Today.AddDays(30))
+        {
+            (sender as DateTimePicker).Value = DateTime.Today;
+            lblError.Text = "Invalid Date!";
+        }
+    }
+}
+
+//String to Byte Array
+	private static byte[] ConvertToByteArray(string password)
+	{
+		ASCIIEncoding encoding = new ASCIIEncoding();
+		return encoding.GetBytes(password);
+	}
+
+//Error Obj.Function Name
+adminInstance.errObj.txtBtnClicks.Text += "\n" + MethodBase.GetCurrentMethod().Name;
+
+
+//Email through Forms
+
+using System;
+using System.Windows.Forms;
+using System.Net.Mail;
+
+namespace WindowsApplication1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                MailMessage mail = new MailMessage();
+                SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
+
+                mail.From = new MailAddress("your_email_address@gmail.com");
+                mail.To.Add("to_address");
+                mail.Subject = "Test Mail";
+                mail.Body = "This is for testing SMTP mail from GMAIL";
+
+                SmtpServer.Port = 587;
+                SmtpServer.Credentials = new System.Net.NetworkCredential("username", "password");
+                SmtpServer.EnableSsl = true;
+
+                SmtpServer.Send(mail);
+                MessageBox.Show("mail Send");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+        }
+    }
+}
+
+
+//Wait Function
+		private void Wait(int _seconds)
+        {
+            if (_seconds < 1) return;
+
+            DateTime waitTime = DateTime.Now.AddSeconds(_seconds);
+
+            while (DateTime.Now < waitTime)
+            {
+                //Application.DoEvents();
+            }
+        }
+
+
+//Number Validations
+        private void NumValidations(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar)
+                && e.KeyChar != 0)
+            {
+                lblValidation.Text = "Enter only numbers!";
+                e.Handled = true;
+
+                return;
+            }
+
+            ResetLblValidation();
+        }
+
+//Alphabets Validations
+        private void AlphaValidations(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsLetter(e.KeyChar))
+            {
+                lblValidation.Text = "Enter only Letters!";
+                e.Handled = true;
+
+                return;
+            }
+
+            ResetLblValidation();
+        }
+
+//Alpha Num Validations
+        private void AlphaNumValidations(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsLetterOrDigit(e.KeyChar)
+                && !char.IsWhiteSpace(e.KeyChar)
+                && !char.Equals(e.KeyChar, '-')
+                && !char.Equals(e.KeyChar, ','))
+            {
+                lblValidation.Text = "Enter only Letters or Digits";
+                e.Handled = true;
+
+                return;
+            }
+
+            ResetLblValidation();
+        }
+
+
+//Email Validations
+        public bool InvalidEmail()
+        {
+            string emailExpr = null;
+            emailExpr = "^([0-9a-zA-Z]([-\\.\\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\\w]*[0-9a-zA-Z]\\.)+[a-zA-Z]{2,9})$";
+
+            if (Regex.IsMatch(txtEmail.Text, emailExpr))
+            {
+                //Since the Email is Valid, retutn IsInvalidEmail as False.
+                return false;
+            }
+
+            lblValidation.Text = "Invalid Email!";
+            return true;
+        }
+
+
+//Identity Specifications Output
+        int issueID = -1;
+        c.cmd.CommandText = "insert into IssueTable values(@memberid, @accno, @copyno, @issuedate, @duedate, @status) set @issueid = SCOPE_IDENTITY()";
+        c.cmd.Parameters.Clear();
+
+        SqlParameter outIssueID = new SqlParameter("@issueid", SqlDbType.Int);
+        outIssueID.Direction = ParameterDirection.Output;
+
+        c.cmd.Parameters.Add(outIssueID);
+        c.cmd.Parameters.Add("@memberid", SqlDbType.VarChar).Value = txtMemID.Text;
+        c.cmd.Parameters.Add("@accno", SqlDbType.VarChar).Value = txtAccno.Text;
+        c.cmd.Parameters.Add("@copyno", SqlDbType.VarChar).Value = txtCopy.Text;
+        c.cmd.Parameters.Add("@issuedate", SqlDbType.DateTime).Value = dtToday.Value;
+        c.cmd.Parameters.Add("@duedate", SqlDbType.DateTime).Value = dtToday.Value.AddDays(7);
+        c.cmd.Parameters.Add("@status", SqlDbType.VarChar).Value = "To be Returned";
+
+        c.cmd.ExecuteNonQuery();
+
+        if (outIssueID.Value != DBNull.Value)
+        {
+            issueID = (int)outIssueID.Value;
+        }
+
+
+//OnForm Closing
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            base.OnFormClosing(e);
+
+            switch (e.CloseReason)
+            {
+                case CloseReason.WindowsShutDown:
+                case CloseReason.TaskManagerClosing:
+                    return;
+                default: break;
+
+            }
+
+            if (adminInstance != null) adminInstance.Show();
+        }

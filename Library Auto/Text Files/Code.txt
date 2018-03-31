@@ -1,0 +1,13 @@
+
+1.
+insert into Accissues select * from AccRegTable where accno='0454'
+
+
+Members Validation
+Create order
+Purchase Bill
+Fine Report
+AccRegReport
+Purchase Order Report
+Purchase Bill Report
+	Stock Sorting

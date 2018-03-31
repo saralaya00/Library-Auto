@@ -1,0 +1,50 @@
+MemberParameters.LibraryStaff = LS-
+
+
+
+	1.AccRegister : 
+
+	from:
+				Delete > Delete Complete!
+				> Edit > Edit Enabled through View.
+				
+	to:
+				Delete > Delete Complete!
+				> Edit > Edit Enabled through Search Accno. 
+	//Completed!			
+			
+	2.Members : 
+
+	from:
+				Delete > Delete Complete!
+				> Edit > Edit Enabled through View.
+				
+	to:
+				Delete > Delete Complete!
+				> Edit > Edit Enabled through Search MemID. 
+
+	3. Members :
+
+	On Select of memtype Staff > All values to TxtBoxes.
+
+	4. Do not delete Members with Status 'With Issue'.
+
+	5.Acc Register : Edit > AddCopy turn Copyno.Readonly to false.
+
+	6.Acc Register : Perform Clear All after Edit Click.
+
+	7.Stock Module : Sorting Techniques.
+
+	8.Issue Table : Circulation  > Insert StaffID of issuer
+	and StaffID of Returner.
+
+	Add Renew Date.
+	
+	
+8. Members > Expirydate.Load = Datetime.today.AddYears(1);
+	9. Login > Staff Status.Inactive > MsgBox
+10. Circulation : InputBox.String don't convert to int.
+	11. Not null for Change password
+	
+	12. OnAdmin Close > Open new Login();
+
